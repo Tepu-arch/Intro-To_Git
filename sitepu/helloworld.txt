@@ -1,4 +1,2 @@
 name - Tepu
 addres - Bandung
-Phone Number - 081234567890
-Phone Gubahan - 0812345678901
